@@ -5,7 +5,7 @@ Estudando HTML|JS|CS.
 
 <div>
   <a href="https://https://github.com/rafaelomrac">
-  <img  height="155em" src="https://github-readme-stats.vercel.app/api?username=rafaelomrac&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img  height="155em" src="https://github-readme-stats.vercel.app/api?username=rafaelomrac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelomrac&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
